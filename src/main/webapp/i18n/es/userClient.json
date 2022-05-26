@@ -1,0 +1,28 @@
+{
+  "pcargaApp": {
+    "userClient": {
+      "home": {
+        "title": "User Clients",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo User Client",
+        "createOrEditLabel": "Crear o editar User Client",
+        "notFound": "Ningún User Clients encontrado"
+      },
+      "created": "Un nuevo User Client ha sido creado con el identificador {{ param }}",
+      "updated": "Un User Client ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un User Client ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar User Client {{ id }}?"
+      },
+      "detail": {
+        "title": "User Client"
+      },
+      "id": "ID",
+      "idOperator": "Id Operator",
+      "idUserOperator": "Id User Operator",
+      "idTorneo": "Id Torneo",
+      "acumulado": "Acumulado",
+      "lastReport": "Last Report"
+    }
+  }
+}

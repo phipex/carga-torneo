@@ -48,6 +48,7 @@ public class CacheConfiguration {
             createCache(cm, co.com.ies.iesgaming.domain.User.class.getName());
             createCache(cm, co.com.ies.iesgaming.domain.Authority.class.getName());
             createCache(cm, co.com.ies.iesgaming.domain.User.class.getName() + ".authorities");
+            createCache(cm, co.com.ies.iesgaming.domain.UserClient.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

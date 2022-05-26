@@ -1,0 +1,28 @@
+{
+  "pcargaApp": {
+    "userClient": {
+      "home": {
+        "title": "User Clients",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new User Client",
+        "createOrEditLabel": "Create or edit a User Client",
+        "notFound": "No User Clients found"
+      },
+      "created": "A new User Client is created with identifier {{ param }}",
+      "updated": "A User Client is updated with identifier {{ param }}",
+      "deleted": "A User Client is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete User Client {{ id }}?"
+      },
+      "detail": {
+        "title": "User Client"
+      },
+      "id": "ID",
+      "idOperator": "Id Operator",
+      "idUserOperator": "Id User Operator",
+      "idTorneo": "Id Torneo",
+      "acumulado": "Acumulado",
+      "lastReport": "Last Report"
+    }
+  }
+}
